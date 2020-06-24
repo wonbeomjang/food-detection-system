@@ -1,6 +1,6 @@
 # food-detection-system
 Prography project of food ingredient detectoin
-we use flask as server and ssd-pytorch in raspberrypi
+we use flask as server and ssd-pytorch with pruning in raspberrypi
 
 ## Demo image
 ![demo](https://user-images.githubusercontent.com/40621030/85599839-de9ea300-b687-11ea-9b3f-08fdbc5c674f.jpg)
